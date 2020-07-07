@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69627603733",
+    "firebase_url": "https://flutter-ldamd.firebaseio.com",
+    "project_id": "flutter-ldamd",
+    "storage_bucket": "flutter-ldamd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69627603733:android:6386f61983eac15702d71c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_serverless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69627603733-3lbvbacsog7bfio8k7sf9kbuvm1gphtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxSTIsXXlI9aE0du-LF1MtJ_WMIOZKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69627603733-3lbvbacsog7bfio8k7sf9kbuvm1gphtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
